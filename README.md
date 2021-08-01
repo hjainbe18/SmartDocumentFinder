@@ -38,7 +38,7 @@ Activate Environment:
 
 ```> pip install -r requirements.txt```
 
-__Download Glove Word Embeddings__ from this [link](https://www.kaggle.com/terenceliu4444/glove6b100dtxt), decompress it and copy the ```glove.6B.100d``` file in ```DataBase``` folder
+__Download Glove Word Embeddings__ from this [link](https://www.kaggle.com/danielwillgeorge/glove6b100dtxt), decompress it and copy the ```glove.6B.100d``` file in ```DataBase``` folder
 
 then, 
 run initial_file.py through this command
