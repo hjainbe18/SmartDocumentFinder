@@ -14,7 +14,7 @@ In such cases, use of a __Smart document finder__ can really make a huge differe
 ```> cd IntelligentDocumentFinder```
 <br>
 <br>
-```> git clone https://github.com/Sarthakjain1206/Intelligent_Document_Finder_2.0.git```
+```> https://github.com/hjainbe18/SmartDocumentFinder.git```
 <br>
 
 Install Vitual Environment if not installed
