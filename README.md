@@ -1,5 +1,8 @@
+#Changing for HacktoberFest
+
 # SmartDocumentFinder
 How easy do you find it to remember the exact location of a document that you created last year? Not very easy, right? Big Organizations/people deal with hundreds of documents daily and forget about them, most of the time.
+
 <br>
 But what if we want that old documentation again for some work, but unfortunately you do not remember the name or the actual content of that document to retrieve it from the large storage of your computer.
 <br>
